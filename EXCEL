@@ -39,3 +39,5 @@ Fill Sequences
 Filling can be used to create sequences. A sequence is an order or a pattern. We can use the filling function to continue the order that has been set.
 
 Sequences can for example be used on numbers and dates.
+
+The difference between cutting and copying, is that cutting removes the originals, while copying leaves the originals.
