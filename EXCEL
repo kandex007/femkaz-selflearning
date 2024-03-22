@@ -28,16 +28,19 @@ Drag to mark a range.
 -- Filling
 Filling makes your life easier and is used to fill ranges with values, so that you do not have to type manual entries.
 
-Filling can be used for:
+-- Filling can be used for:
 
 Copying
 Sequences
 Dates
 Functions (*)
 
-Fill Sequences
+-- Fill Sequences
 Filling can be used to create sequences. A sequence is an order or a pattern. We can use the filling function to continue the order that has been set.
 
-Sequences can for example be used on numbers and dates.
+-- Sequences can for example be used on numbers and dates.
 
-The difference between cutting and copying, is that cutting removes the originals, while copying leaves the originals.
+-- The difference between cutting and copying, is that cutting removes the originals, while copying leaves the originals.
+
+-- Adding New Rows
+Rows can also be added and deleted. You access the menu by right clicking the row number. New rows are added to the same place you clicked.
