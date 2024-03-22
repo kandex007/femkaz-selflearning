@@ -24,3 +24,13 @@ The Sheet is a set of rows and columns. It forms the same pattern as we have in 
 
 Name Box
 Drag to mark a range.
+
+-- Filling
+Filling makes your life easier and is used to fill ranges with values, so that you do not have to type manual entries.
+
+Filling can be used for:
+
+Copying
+Sequences
+Dates
+Functions (*)
