@@ -77,3 +77,5 @@ Example =$A1
 Absolute for the row. The reference is locked to that row. The column remains relative.
 Example =A$1
 
+-- EXCEL ARITHMETIC OPERATORS
+
