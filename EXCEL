@@ -59,3 +59,11 @@ Excel has two types of references:
 Relative references
 Absolute references
 
+Absolute reference is a choice we make. It is a command which tells Excel to lock a reference.
+
+The dollar sign ($) is used to make references absolute.
+
+Example of relative reference: A1
+
+Example of absolute reference: $A$1
+
