@@ -78,4 +78,8 @@ Absolute for the row. The reference is locked to that row. The column remains re
 Example =A$1
 
 -- EXCEL ARITHMETIC OPERATORS
+ADDITION
+SUBSTACTION
+MULTIPLICATION
+DIVISION
 
