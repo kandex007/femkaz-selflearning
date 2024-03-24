@@ -83,3 +83,8 @@ SUBSTACTION
 MULTIPLICATION
 DIVISION
 
+-- Parentheses
+Using parentheses makes Excel do the calculation for the numbers inside the parentheses first, before calculating the rest of the formula.
+
+Parentheses are added by typing () on both sides of numbers, like (1+2).
+
