@@ -44,3 +44,11 @@ Filling can be used to create sequences. A sequence is an order or a pattern. We
 
 -- Adding New Rows
 Rows can also be added and deleted. You access the menu by right clicking the row number. New rows are added to the same place you clicked.
+
+-- The total is called SUM in Excel.
+
+There are two ways to calculate the SUM.
+
+Adding cells
+SUM function
+
