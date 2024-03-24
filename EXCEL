@@ -66,4 +66,14 @@ The dollar sign ($) is used to make references absolute.
 Example of relative reference: A1
 
 Example of absolute reference: $A$1
+The dollar sign has three different states:
+
+Absolute for column and row. The reference is absolutely locked.
+Example =$A$1
+
+Absolute for the column. The reference is locked to that column. The row remains relative.
+Example =$A1
+
+Absolute for the row. The reference is locked to that row. The column remains relative.
+Example =A$1
 
