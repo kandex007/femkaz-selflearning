@@ -99,3 +99,13 @@ A hexadecimal color is specified with: #RRGGBB.
 
 RR (red), GG (green) and BB (blue) are hexadecimal integers between 00 and FF specifying the intensity of the color.
 
+Font Name
+The default font in Excel is Calibri.
+
+The font name can be changed for both numbers and text.
+
+Why change the font name in Excel?
+
+Make the data easier to read
+Make the presentation more appea
+
