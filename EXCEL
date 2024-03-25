@@ -91,3 +91,11 @@ Parentheses are added by typing () on both sides of numbers, like (1+2).
 -- EXCEL FORMATTING:
 Formatting is used to make spreadsheets more readable. There are many ways to add styles. The most common ones are; Color, Font, Number format and Grids.
 
+
+Hexadecimal Colors
+Excel supports Hexadecimal color values
+
+A hexadecimal color is specified with: #RRGGBB.
+
+RR (red), GG (green) and BB (blue) are hexadecimal integers between 00 and FF specifying the intensity of the color.
+
