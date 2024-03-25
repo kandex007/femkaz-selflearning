@@ -126,5 +126,13 @@ Number
 Currency
 Time
 
+Grids
+By default, gridlines are displayed in Excel.
 
+However, grids can be removed.
+
+Why remove grids?
+
+Make the spreadsheet more readable
+Make the spreadsheet more delicate
 
