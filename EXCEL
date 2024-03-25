@@ -88,3 +88,6 @@ Using parentheses makes Excel do the calculation for the numbers inside the pare
 
 Parentheses are added by typing () on both sides of numbers, like (1+2).
 
+-- EXCEL FORMATTING:
+Formatting is used to make spreadsheets more readable. There are many ways to add styles. The most common ones are; Color, Font, Number format and Grids.
+
