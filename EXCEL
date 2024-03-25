@@ -111,3 +111,18 @@ Make the presentation more appeaL
 
 Fonts can be changed in four different ways: color, font name, size and other characteristics. The fonts are changed to make the spreadsheet more readable and delicate.
 
+
+Number Formats
+The default Number format is General.
+
+Why change number formats?
+
+Make data explainable
+Prepare data for functions, so that Excel understands what kind of data you are working with.
+Examples of number formats:
+
+General
+Number
+Currency
+Time
+
