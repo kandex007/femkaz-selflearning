@@ -143,3 +143,6 @@ Ranges can be sorted using the Sort Ascending and Sort Descending commands.
 
 When sorting multiple columns, it will always sort by the first column (leftmost).
 
+-- Excel Filter
+Filters can be applied to sort and hide data. It makes data analysis easier.
+
