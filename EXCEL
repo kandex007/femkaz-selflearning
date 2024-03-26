@@ -162,3 +162,5 @@ Resize table command
 Drag to resize
 Adding headers
 
+-- Removing duplicates are helpful when cleaning a dataset and you do not want to include copies.
+
