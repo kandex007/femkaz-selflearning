@@ -175,3 +175,8 @@ Make it easier to read and understand
 Make it look better
 The table style is Blue, Table Style Medium 2 by default.
 
+-- Conditional Formatting
+Conditional formatting is used to change the appearance of cells in a range based on your specified conditions.
+
+The conditions are rules based on specified numerical values or matching text.
+
