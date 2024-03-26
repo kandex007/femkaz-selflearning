@@ -164,3 +164,14 @@ Adding headers
 
 -- Removing duplicates are helpful when cleaning a dataset and you do not want to include copies.
 
+-- Table Style
+Excel has many ready to use styles which can be applied for tables.
+
+Table styles is to change the appearance of the table.
+
+It can be changed to:
+
+Make it easier to read and understand
+Make it look better
+The table style is Blue, Table Style Medium 2 by default.
+
