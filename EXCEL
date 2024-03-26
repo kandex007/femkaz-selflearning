@@ -146,3 +146,8 @@ When sorting multiple columns, it will always sort by the first column (leftmost
 -- Excel Filter
 Filters can be applied to sort and hide data. It makes data analysis easier.
 
+-- Table Design
+Tables can be customized and styled in a few clicks.
+
+Converting a range into a table gives access to a menu called "Table Design".
+
