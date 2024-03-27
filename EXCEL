@@ -200,3 +200,10 @@ Line chart
 Clustered Bar Chart
 Clustered Bar charts are used when the value of data is important but the order is not.
 
+Stacked Bar Chart
+Stacked bar charts are used to highlights the total amount of contribution for each category.
+
+This is done by stacking the bars at the end of each other.
+
+The charts are used when you have more than one data column.
+
