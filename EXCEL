@@ -197,3 +197,6 @@ Pie chart
 Column chart
 Line chart
 
+Clustered Bar Chart
+Clustered Bar charts are used when the value of data is important but the order is not.
+
