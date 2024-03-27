@@ -225,3 +225,8 @@ Pie charts arrange the data as slices in a circle.
 
 2-D pie charts are used when you only have one data column.
 
+Doughnut Chart
+Doughnut charts arrange the data as slices in a circle with hollow center.
+
+Doughnut charts are often used when you have more than one data column.
+
