@@ -241,3 +241,7 @@ How to move a chart, step by step:
 Select the chart by clicking on it.
 Drag the chart and place it where you want
 
+Excel charts can be resized.
+
+Resizing will scale all the elements in the chart except the text.
+
