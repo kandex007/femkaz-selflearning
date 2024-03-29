@@ -303,3 +303,12 @@ The AVERAGEIFS function is a premade function in Excel, which calculates the ave
 It is typed =AVERAGEIFS:
 
 =AVERAGEIFS(averag
+
+
+To concatenate is to link something together.
+
+CONCAT is a function in Excel and is short for concatenate.
+
+The CONCAT function is used to link multiple cells without adding any delimiters between the combined cell values.
+
+It is typed =CONCAT
