@@ -289,3 +289,5 @@ The conditions can check things like:
 If a number is greater than another number >
 If a number is smaller than another number <
 If a number or text is equal to something =
+
+Note: Text values needs to be in quotes: " "
