@@ -297,3 +297,9 @@ Combining the AND function with an IF function lets you check multiple condition
 Combining the AND function with an IF function lets you check multiple conditions for the IF function:
 
 The AVERAGEIF function is a premade function in Excel, which calculates the average of a range based on a true or false condition.
+
+The AVERAGEIFS function is a premade function in Excel, which calculates the average of a range based on one or more true or false condition.
+
+It is typed =AVERAGEIFS:
+
+=AVERAGEIFS(averag
