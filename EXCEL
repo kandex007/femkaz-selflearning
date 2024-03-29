@@ -313,3 +313,7 @@ The CONCAT function is used to link multiple cells without adding any delimiters
 
 It is typed =CONCAT
 Note: The different parts of the function are separated by a symbol, like comma , or semicolon
+
+The COUNT function is a premade function in Excel, which counts cells with numbers in a range.
+
+It is typed =COUNT
