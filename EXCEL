@@ -281,3 +281,6 @@ PivotTables have four main components:
 3. Filter
 4. Values
 
+
+The AND function is a premade function in Excel, which returns TRUE or FALSE based on two or more conditions.
+
