@@ -291,3 +291,5 @@ If a number is smaller than another number <
 If a number or text is equal to something =
 
 Note: Text values needs to be in quotes: " "
+
+Combining the AND function with an IF function lets you check multiple conditions for the IF function
