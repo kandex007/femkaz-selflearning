@@ -317,3 +317,5 @@ Note: The different parts of the function are separated by a symbol, like comma 
 The COUNT function is a premade function in Excel, which counts cells with numbers in a range.
 
 It is typed =COUNT
+
+Note: The COUNT function only counts cells with numbers, not cells with letters. The COUNTA function is better used if the cells have letters.
