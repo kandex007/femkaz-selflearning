@@ -323,3 +323,9 @@ Note: The COUNT function only counts cells with numbers, not cells with letters.
 The COUNTA function is a premade function in Excel, which counts all cells in a range that has values, both numbers and letters.
 
 It is typed =COUNTA
+
+The COUNTBLANK function is a premade function in Excel, which counts blank cells in a range.
+
+It is typed =COUNTBLANK
+
+Note: The COUNTBLANK function is helpful to find empty cells in a range.
