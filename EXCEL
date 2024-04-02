@@ -336,3 +336,4 @@ The COUNTIF function can have basic or more advanced uses. This covers the basic
 The COUNTIFS function is a premade function in Excel, which counts cells in a range based on one or more true or false condition.
 
 The IF function is a premade function in Excel, which returns values based on a true or false condition.
+It is typed =IF and has 3 parts:
