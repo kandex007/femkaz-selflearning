@@ -337,3 +337,5 @@ The COUNTIFS function is a premade function in Excel, which counts cells in a ra
 
 The IF function is a premade function in Excel, which returns values based on a true or false condition.
 It is typed =IF and has 3 parts:
+
+The IFS function is a premade function in Excel, which returns values based on one or more true or false conditions.
