@@ -327,3 +327,6 @@ It is typed =COUNTA
 The COUNTBLANK function is a premade function in Excel, which counts blank cells in a range.
 
 It is typed =COUNTBLANK
+
+COUNTIF Function
+The COUNTIF function is a premade function in Excel, which counts cells as specified.
