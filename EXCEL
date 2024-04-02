@@ -343,3 +343,10 @@ The IFS function is a premade function in Excel, which returns values based on o
 The LEFT function is used to retrieve a chosen amount of characters, counting from the left side of an Excel cell. The chosen number has to be greater than 0 and is set to 1 by default.
 
 It is typed =LEFT
+
+
+The LOWER function is used to lowercase text in a cell.
+
+Changing the letter case of your cell values can be great when there is a lot of case inconsistency among the cell inputs or when preparing your dataset for case-sensitive usage.
+
+It is typed =LOWER
