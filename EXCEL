@@ -350,3 +350,5 @@ The LOWER function is used to lowercase text in a cell.
 Changing the letter case of your cell values can be great when there is a lot of case inconsistency among the cell inputs or when preparing your dataset for case-sensitive usage.
 
 It is typed =LOWER
+
+The MAX function is a premade function in Excel, which finds the highest number in a range.
