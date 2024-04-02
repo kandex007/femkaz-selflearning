@@ -332,3 +332,5 @@ COUNTIF Function
 The COUNTIF function is a premade function in Excel, which counts cells as specified.
 
 The COUNTIF function can have basic or more advanced uses. This covers the basic use for how to count specific numbers and words.
+
+The COUNTIFS function is a premade function in Excel, which counts cells in a range based on one or more true or false condition.
