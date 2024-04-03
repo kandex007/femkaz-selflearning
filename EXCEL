@@ -353,6 +353,6 @@ It is typed =LOWER
 
 =-- The MAX function is a premade function in Excel, which finds the highest number in a range
 
-The MEDIAN function is a premade function in Excel, which returns the middle value in the data
+-=-- The MEDIAN function is a premade function in Excel, which returns the middle value in the data
 
 The MIN function is a premade function in Excel, which finds the lowest number in a range
