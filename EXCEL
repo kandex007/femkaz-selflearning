@@ -345,7 +345,7 @@ The LEFT function is used to retrieve a chosen amount of characters, counting fr
 It is typed =LEFT
 
 
-The LOWER function is used to lowercase text in a cell.
+-- The LOWER function is used to lowercase text in a cell.
 
 Changing the letter case of your cell values can be great when there is a lot of case inconsistency among the cell inputs or when preparing your dataset for case-sensitive usage.
 
