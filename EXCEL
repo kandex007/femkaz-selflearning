@@ -365,3 +365,7 @@ The OR function is a premade function in Excel, which returns TRUE or FALSE base
 
 Combining the OR function with an IF function lets you check multiple conditions for the IF function:
 The IF function lets you specify the return values.
+
+The RAND function is used to generate random numbers.
+
+It is typed =RAND
