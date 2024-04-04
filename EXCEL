@@ -377,3 +377,7 @@ It is typed =RIGHT
 The STDEV.P function is a premade function in Excel, which calculates the Standard Deviation (Std) for the entire population.
 
 It is typed =STDEV.P
+
+The STDEV.S function is a premade function in Excel, which calculates the Standard Deviation (Std) for a sample.
+
+It is typed =STDEV.S
