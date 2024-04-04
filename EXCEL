@@ -361,3 +361,4 @@ The MODE function is a premade function in Excel, which is used to find the numb
 
 This function always returns a single number.
 
+The OR function is a premade function in Excel, which returns TRUE or FALSE based on two or more conditions.
