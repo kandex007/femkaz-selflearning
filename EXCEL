@@ -356,3 +356,7 @@ It is typed =LOWER
 -=-- The MEDIAN function is a premade function in Excel, which returns the middle value in the data
 
 The MIN function is a premade function in Excel, which finds the lowest number in a range
+
+The MODE function is a premade function in Excel, which is used to find the number seen most times.
+
+This function always returns a single number.
