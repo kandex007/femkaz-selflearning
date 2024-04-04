@@ -369,3 +369,7 @@ The IF function lets you specify the return values.
 The RAND function is used to generate random numbers.
 
 It is typed =RAND
+
+The RIGHT function is used to retrieve a chosen amount of characters, counting from the right side of an Excel cell. The chosen number has to be greater than 0 and is set to 1 by default.
+
+It is typed =RIGHT
