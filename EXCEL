@@ -381,3 +381,5 @@ It is typed =STDEV.P
 The STDEV.S function is a premade function in Excel, which calculates the Standard Deviation (Std) for a sample.
 
 It is typed =STDEV.S
+
+The TRIM function is premade in Excel and used to remove irregular text spacing and keep single spaces between words
