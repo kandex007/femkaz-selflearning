@@ -383,3 +383,5 @@ The STDEV.S function is a premade function in Excel, which calculates the Standa
 It is typed =STDEV.S
 
 The TRIM function is premade in Excel and used to remove irregular text spacing and keep single spaces between words
+
+The VLOOKUP function is a premade function in Excel, which allows searches across columns.
