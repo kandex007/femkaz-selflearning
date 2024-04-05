@@ -387,3 +387,8 @@ The TRIM function is premade in Excel and used to remove irregular text spacing 
 The VLOOKUP function is a premade function in Excel, which allows searches across columns.
 
 The XOR function is a premade function in Excel, which returns TRUE or FALSE based on two or more conditions.
+
+
+Time can be converted into seconds using Excel.
+
+The number 86400 can be used to convert time to seconds.
